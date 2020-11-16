@@ -2,8 +2,10 @@
 + 発狂難易度表を読んできてランダムセレクトするだけのプログラムです
 
 ## get_insane.py
-[ここ]()からtableタグを読んできてcsvファイルにぶち込むプログラムです</br>
+[ここ](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=search&type=insane)からtableタグを読んできてcsvファイルにぶち込むプログラムです</br>
 そのうち次のランセレプログラムと合体させます
+
+参考 : [Qiita - 【Python】BeautifulSoupを使ってテーブルをスクレイピング](https://qiita.com/hujuu/items/b0339404b8b0460087f9)
 
 ## random_select_music.py
 get_insane.pyで作ったinsane_n.csvから曲目を読んできてランダムセレクトするプログラムです
