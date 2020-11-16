@@ -1,5 +1,5 @@
 # このソースファイルについて
-+ 発狂難易度表を読んできてランダムセレクトするだけのプログラムです
++ bms(PC音ゲー)の発狂難易度表を読んできてランダムセレクトするだけのプログラムです
 
 ## get_insane.py
 [ここ](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=search&type=insane)からtableタグを読んできてcsvファイルにぶち込むプログラムです</br>
